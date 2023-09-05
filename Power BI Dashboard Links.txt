@@ -1,5 +1,0 @@
-Power BI Dashboards
-
-https://app.powerbi.com/view?r=eyJrIjoiNDVjNTI5MTktNThjOS00NWE4LWIxZjItYmJlYjU4M2U2ODE0IiwidCI6IjUxZTEyMjRlLTg4MDktNDM4YS1hODI5LWZiYTIxOTg4ZTJiOCIsImMiOjF9
-
-https://app.powerbi.com/view?r=eyJrIjoiZjYxMzEwOTEtYzg3OC00NmUwLTk3MDctNDIxMDdjYmI1M2I2IiwidCI6IjUxZTEyMjRlLTg4MDktNDM4YS1hODI5LWZiYTIxOTg4ZTJiOCIsImMiOjF9
